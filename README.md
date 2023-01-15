@@ -1,1 +1,2 @@
 # Research-on-Main-Attraction-of-Vloggers-at-Bilibili
+Crawled and cleaned 898 pieces of weekly must-see data from issues 147 to 166 of Bilibili in 2022, 11,918 pieces of the comprehensive index list from February to May in 2022, and 45 pieces of data from the account "Hello teacher, my name is classmate He"; applied the packages of pyecharts, matplotlib, and seaborn for data visualization, including word cloud maps, heat maps, and user conversion maps.; conducted research on the popularity of vloggers and the main source of vloggers’ success
